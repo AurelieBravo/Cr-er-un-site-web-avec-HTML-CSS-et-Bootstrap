@@ -1,0 +1,60 @@
+body {
+    padding: 5%;
+    background-color: #f9e4b7;
+
+}
+
+.container {
+    border: 2px;
+    border-color: black;
+}
+
+.ligne {
+    background-color: aqua;
+}
+
+.titre_tableau {
+    background-color: antiquewhite;
+}
+
+.logo {
+    width: 10vw;
+    height: 10vh;
+
+}
+
+.carte {
+    max-width: 400px;
+    max-height: 350px;
+}
+
+h2,
+h3,
+h4 {
+    padding-top: 3%;
+    color: blue;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 13%;
+    color: blue;
+    text-align: center;
+}
+
+
+p {
+    text-align: center;
+
+}
+
+.tableau {
+    border-color: black;
+}
+
+th,
+td,
+tr {
+    border-color: rgb(9, 8, 8);
+    border: 5%;
+}
